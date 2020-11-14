@@ -6,8 +6,19 @@ INFORMATION ABOUT LISTS:
 
 There will be 2 folders with varying lists:
 
-        AdlistG - This is my personal Adlist, and also the most stable in terms of false positives
-        AdlistMulti - This is an adlist i will maintain, however as i do not run this myself, there will be a *few* false positives
+        AdlistG - This is my personal Adlist, and also the most stable in terms of false positives.
+        AdlistMulti - These are adlists i will maintain, however as i do not run this myself, there will be a *few* false positives.
+        
+AdlistMulti:
+
+        AdlistMulti has the following lists:
+        1.
+        2.
+        3.
+        4.
+        5.
+        
+        You can select any 1 list to use, or if you want to have them all included via a single link [excluding pornogrphy sites], then look at AdlistCombined
         
   How do i report a false positive:
   
