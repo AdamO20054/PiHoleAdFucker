@@ -11,6 +11,8 @@ There will be 2 folders with varying lists:
         
 AdlistMulti:
 
+        In AdlistMulti there are 2 misleadingBlockListsLight - use them both together!
+
         AdlistMulti has the following lists:
         1.
         2.
